@@ -10,7 +10,7 @@ void main(List<String> arguments) {
   double exponents = 1.42e5;
 
   // Strings
-  String name = "Henry";
+  String name = "John";
   var company = "Google";
 
   // Boolean
