@@ -1,4 +1,4 @@
-void main(List<String> arguments) {
+void main() {
   // Numbers: int
   int score = 23;
   var count = 23; // It is inferred as integer automatically by compiler
@@ -24,6 +24,7 @@ void main(List<String> arguments) {
 
   print(score);
   print(exponents);
+  print(company);
 
   // NOTE: All data types in Dart are Objects.
   // Therefore, their initial value is by default 'null'
