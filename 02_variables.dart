@@ -9,6 +9,11 @@ void main(List<String> arguments) {
   var percent = 82.533;
   double exponents = 1.42e5;
 
+  double distanceMile = 1;
+  double distanceKm = distanceMile * 1.609;
+
+  print('$distanceMile mile =  $distanceKm km');
+
   // Strings
   String name = "John";
   var company = "Google";
